@@ -11,3 +11,7 @@ assess the performance of your algorithms, using statistics or charts as necessa
 Good loans are the ones where the status is current or fully paid. 
 
 Bad loans are the ones where the status is default, in grace period, or late.
+
+This model was coded and tested using Python. 
+
+For questions, feel free to contact me.
